@@ -1,5 +1,7 @@
 ## Netflix Homepage Optimization: A Simulation Study
 
+![](logo.png)
+
 This project was completed as part of the *STAT430 - Experimental Design* course taught by Nathaniel T. Stevens at the University of Waterloo (Waterloo, ON) and aims to optimize the Netflix homepage to reduce browsing time and combat decision paralysis. With so many options available, users can feel overwhelmed, which leads to longer browsing times and less engagement. To tackle this, I experimented with different factors like tile size, match score, preview length, and preview type to improve the overall experience.
 
 - **Tile Size:** Adjusts the number of visible tiles on the screen by changing the tile’s height-to-screen-height ratio.
@@ -9,8 +11,9 @@ This project was completed as part of the *STAT430 - Experimental Design* course
 
 The response surface simulator created by Nathaniel T. Stevens was used to simulate an experiment examining the impact of various design factors on browsing time for the Netflix homepage. The tool generated 100 browsing time observations per condition which facilitated the analysis of how factors like tile size, match score, preview length, and preview type affect user behavior.
 
-To view the full report, click [here]().
-To explore the code used in the analysis, click [here]().
+To view the full report, click [here](Netflix_Simulation_Study.pdf).
+
+To explore the R code used in the analysis, click [here](Netflix_Code.R).
 
 
 ### Executive Summary
