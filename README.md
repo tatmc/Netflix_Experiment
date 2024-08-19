@@ -1,8 +1,6 @@
 ## Netflix Homepage Optimization: A Simulation Study
 
-![](logo.png)
-
-This project was completed as part of the *STAT430 - Experimental Design* course taught by Nathaniel T. Stevens at the University of Waterloo (Waterloo, ON) and aims to optimize the Netflix homepage to reduce browsing time and combat decision paralysis. With so many options available, users can feel overwhelmed, which leads to longer browsing times and less engagement. To tackle this, I experimented with different factors like tile size, match score, preview length, and preview type to improve the overall experience.
+This simulation study was completed as part of the *STAT430 - Experimental Design* course taught by Nathaniel T. Stevens at the University of Waterloo (Waterloo, ON) and aims to optimize the Netflix homepage to reduce browsing time and combat decision paralysis. With so many options available, users can feel overwhelmed, which leads to longer browsing times and less engagement. To tackle this, I experimented with different factors like tile size, match score, preview length, and preview type to improve the overall experience.
 
 - **Tile Size:** Adjusts the number of visible tiles on the screen by changing the tile’s height-to-screen-height ratio.
 - **Match Score:** Predicts how much you will enjoy a show or movie based on your viewing history, expressed as a percentage.
@@ -15,6 +13,9 @@ To view the full report, click [here](Netflix_Simulation_Study.pdf).
 
 To explore the R code used in the analysis, click [here](Netflix_Code.R).
 
+<div style="text-align: right;">
+  <img src="logo.png" alt="Example Image" width="250"/>
+</div>
 
 ### Executive Summary
 
