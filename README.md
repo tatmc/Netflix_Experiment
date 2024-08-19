@@ -1,4 +1,4 @@
-## Netflix Experimental Analysis
+## Netflix Homepage Optimization: A Simulation Study
 
 This project was completed as part of the *STAT430 - Experimental Design* course taught by Nathaniel T. Stevens at the University of Waterloo (Waterloo, ON) and aims to optimize the Netflix homepage to reduce browsing time and combat decision paralysis. With so many options available, users can feel overwhelmed, which leads to longer browsing times and less engagement. To tackle this, I experimented with different factors like tile size, match score, preview length, and preview type to improve the overall experience.
 
